@@ -1,4 +1,10 @@
 print("ajesh")
 print("r")
 print("a")
-print("c")
+
+age = 20
+if age/2 == 0:
+    print("odd")
+else:
+    print("even")
+
